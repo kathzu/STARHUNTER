@@ -1,0 +1,11 @@
+//ZBIORY TUTKÓW
+https://github.com/AdamAtomic/flixel/wiki
+http://flashgamedojo.com/wiki/index.php?title=Category:Tutorials
+http://evolutionlive.blogspot.com/2009/10/where-to-start-with-as3-flashdevelop.html
+http://www.photonstorm.com/topics/flash-game-dev-tips/page/3
+
+
+
+//MAPY
+http://forums.flixel.org/?topic=211
+
