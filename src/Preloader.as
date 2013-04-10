@@ -1,0 +1,18 @@
+package  
+{
+	/**
+	 * ...
+	 * @author Kamil Lysy 
+	 *        Do poprawienia coś nie działa
+	 */
+	import org.flixel.FlxPreloader;
+	
+	public class Preloader extends FlxPreloader
+	{
+		public function Preloader():void
+		{
+			className = "Main";
+			super();
+		}		
+	}
+}
